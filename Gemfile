@@ -83,6 +83,9 @@ group :development do
 
   # N+1
   gem "bullet"
+
+  # multi run test
+  gem "test-queue"
 end
 
 # Tamplate
